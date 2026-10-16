@@ -9,9 +9,7 @@ export let projects = [
     description:
       "A ChatGPT-inspired web app built with React and an Express/Node.js backend. It brings a familiar chat experience to the browser and gave me a practical way to work on the connection between a conversational interface and server-side AI responses.",
     url: "https://chat.daniyaasefa.com/",
-    // TODO: Add the GPT Clone GitHub repository URL here when you update the repository links.
-    // TODO: Add the GitHub repository URL for this project when ready.
-    source: "",
+    source: "https://github.com/daniyacodes/gpt-clone.git",
   },
   {
     number: "02",
@@ -36,9 +34,7 @@ export let projects = [
     stack: ["React", "CSS", "API integration"],
     description:
       "A streaming-platform interface I’m currently building. I’m using the project to practise reusable React components, responsive layouts, and the kind of browsing experience people expect from a media app.",
-    url: "https://netflix.daniyaasefa.com/",
-    // TODO: Add the Netflix Clone live URL and GitHub repository after the project is ready to share.
-    // TODO: Add the GitHub repository URL for this project when ready.
-    source: "",
+    url: "https://netflix.daniyaasefa.com/"
+    source: "https://github.com/daniyacodes/netflix.git",
   },
 ];
