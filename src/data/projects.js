@@ -21,9 +21,7 @@ export let projects = [
     description:
       "A Q&A space where learners can ask questions and share answers. Alongside the core community features, I’ve been exploring how retrieval, embeddings, and RAG can help people find relevant knowledge and learn from it.",
     url: "https://forum.daniyaasefa.com/",
-    // TODO: Add the Evangadi Forum GitHub repository URL here when you update the repository links.
-    // TODO: Add the GitHub repository URL for this project when ready.
-    source: "",
+    source: "https://github.com/daniyacodes/Evangadi-Forum.git",
   },
   {
     number: "03",
