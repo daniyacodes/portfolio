@@ -27,11 +27,11 @@ export let projects = [
     number: "03",
     type: "Frontend project",
     title: "Netflix Clone",
-    year: "In progress",
-    status: "In Development",
+    year: "2026",
+    status: "Live",
     stack: ["React", "CSS", "API integration"],
     description:
-      "A streaming-platform interface I’m currently building. I’m using the project to practise reusable React components, responsive layouts, and the kind of browsing experience people expect from a media app.",
+      "A Netflix-inspired streaming platform interface built with React. This project focuses on reusable components, responsive layouts, API integration, and creating a smooth browsing experience similar to modern streaming platforms.",
     url: "https://netflix.daniyaasefa.com/"
     source: "https://github.com/daniyacodes/netflix.git",
   },
