@@ -1,0 +1,34 @@
+
+# Never commit real SMTP credentials
+server-config/smtp-config.php
+portfolio-private/
+node_modules
+dist/
+dist.zip
+README.md
+
+# Dependencies
+node_modules/
+
+# React production build
+dist/
+dist.zip
+server-config/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
